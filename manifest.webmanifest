@@ -1,0 +1,11 @@
+{
+  "name":"MARVEL STORE",
+  "short_name":"MARVEL",
+  "start_url":"./#home",
+  "display":"standalone",
+  "background_color":"#fff",
+  "theme_color":"#f6dce7",
+  "dir":"rtl",
+  "lang":"ar",
+  "icons":[{"src":"assets/icons/favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
